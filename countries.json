@@ -1,0 +1,61 @@
+{
+    "cmnd1": "setprop gsm.sim.operator.iso-country",
+    "cmnd2": "setprop gsm.operator.iso-country",
+    "cmnd3": "setprop sys.smf.mnoname0",
+    "cmnd4": "setprop ril.epdg.currenMno",
+    "cmnd5": "setprop gsm.sim.operator.alpha",
+    "cmnd6": "setprop gsm.sim.operator.numeric",
+    "cmnd7": "setprop sm.operator.numeric",
+    "cmnd8": "setprop vendor.gsm.operator.numeric",
+    "countries": [
+      {
+        "name": "Saudi Arabia",
+        "code": "sa",
+        "operator": "STC",
+        "o_code": "42001"
+      },
+      {
+        "name": "Qatar",
+        "code": "qa",
+        "operator": "Vodafone",
+        "o_code": "42702"
+      },
+      {
+        "name": "Canada",
+        "code": "ca",
+        "operator": "Bell",
+        "o_code": "302610"
+      },
+      {
+        "name": "France",
+        "code": "fr",
+        "operator": "Orange",
+        "o_code": "20800"
+      },
+      {
+        "name": "Portugal",
+        "code": "pt",
+        "operator": "TMN",
+        "o_code": "26806"
+      },
+      {
+        "name": "New Zealand",
+        "code": "nz",
+        "operator": "Telecom",
+        "o_code": "53000"
+      },
+      {
+        "name": "Austria",
+        "code": "au",
+        "operator": "Telstra",
+        "o_code": "50571"
+      },
+      {
+        "name": "Poland",
+        "code": "pl",
+        "operator": "Orange",
+        "o_code": "26003"
+      }
+    ]
+}
+  
