@@ -1,41 +1,21 @@
-# 🛠️ DevCraft
+# 🔨 DevCraft-
 
-A multi-tool project containing two independent utilities:
+> Multi-tool project: Flask task manager web app + ADB-based Android region spoofer for rooted devices.
 
-## 📋 TaskFlow — Flask Task Manager
+## ✨ Features
 
-A full-stack task management web app built with Flask + SQLite.
+- Core functionality as described above
+- Built with modern technologies
+- Easy to set up and use
 
-**Features:**
-- User registration & login (password hashing)
-- Create, toggle, delete tasks
-- Priority levels (low / medium / high)
-- Due date support
-- Search & filter by status/priority
-- CSV export
-- Responsive UI
+## 💻 Installation
 
 ```bash
-pip install -r requirements.txt
-python app.py
+git clone https://github.com/zougar99/DevCraft-.git
+cd DevCraft-
 ```
 
-## 📱 RegionSp — ADB Region Spoofer
+## ℹ️ About
 
-A rooted-Android tool that changes device carrier/country properties via ADB.
-
-**Features:**
-- Root detection
-- Select country from a list
-- Spoofs multiple system properties (SIM, operator, numeric codes)
-- Colorful CLI output
-
-**Requirements:** Rooted Android device, ADB drivers, USB debugging enabled.
-
-```bash
-python main.py
-```
-
----
-
-**Author:** Zakaria Atertour
+Part of the [zougar99](https://github.com/zougar99) project portfolio.
+Built with ❤️
